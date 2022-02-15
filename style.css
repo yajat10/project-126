@@ -1,0 +1,23 @@
+.main{
+    width: 100%;
+    
+}
+.note{
+    box-shadow: 5,5,50,lightblue;
+    color: black;
+}
+canvas{
+    border: 7px solid violet;
+    background-color: lightgray;
+    border-radius: 15px;
+    box-shadow: 3px 3px 20px violet;  
+}
+#footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: violet;
+    color: lightblue;
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 3px 7px 50px violet;
+}
